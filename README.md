@@ -1,2 +1,5 @@
-# pdf-tatoo-remover
-PTR (PDF Tatoo remover) is a js wrapper arround QPDF and SED to remove watermarks from a pdf file.
+<a href="https://github.com/lk-geimfari/rmanns/">
+    <p align="center">
+      <img src="./cover.png">
+    </p>
+</a>

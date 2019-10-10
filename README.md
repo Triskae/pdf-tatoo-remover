@@ -5,7 +5,8 @@
 </a>
 
 
-**PTR** **P**DF **T**atoo **R**emover - is a simle and easy to use wrapper arround qpdf and sed to remove a string from a pdf (like a watermark for example)
+<p align="center"> **PTR** **P**DF **T**atoo **R**emover </p>
+<p> A simple and easy to use wrapper arround qpdf and sed to remove a string from a pdf (like a watermark for example) </p>
 
 ## Installation
 To use this lib, **QPDF** and **SED** need to be installed.

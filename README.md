@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://invertase.io/oss/react-native-firebase">
-    <img width="160px" src="./cover.png"><br/>
+    <img src="./cover.png"><br/>
   </a>
   <h2 align="center">PTR - PDF Tatoo Remover</h2>
 </p>
